@@ -1,0 +1,81 @@
+.container-fluid {
+    background-color: #FFFFFF;
+}
+
+.navbar-nav {
+    gap: 20px;
+}
+
+.register-btn {
+    background-color: #4CAF4F;
+    color: white;
+    height: 42.49px;
+    width: 133.45px;
+    border-radius: 2.72px;
+    text-align: center;
+}
+
+.register-btn:hover {
+    background-color: #4CAF4F !important;
+    color: white;
+}
+.color{
+    background-color: #fff;
+}
+.header-row{
+    background-color:#F5F7FA;
+    height: 416.95px;
+}
+
+.container {
+    background-color: #F5F7FA;
+}
+
+.hero {
+    color: #4D4D4D;
+    height: 52.9px;
+    font-size: 44.55px;
+}
+
+.hero1 {
+    color: #4CAF4F;
+    height: 52.9px;
+    font-size: 44.55px;
+}
+
+.para {
+    height: 16.11px;
+    font-size: 11.17px;
+}
+.banner-1{
+    height: 283.3px;
+    width: 272.16px;
+}
+.heading3{
+    color:#4D4D4D;
+    font-size: 25.3px;
+    height: 31px;
+}
+.paragraph{
+    color: #717171;
+    font-size: 11.14px;
+    height: 17px;
+}
+.paragraph1{
+    color: #414141;
+    font-size: 11.13px;
+    height: 17px;
+}
+.paras{
+    width: 174px;
+    height: 42px;
+    font-size: 9.7px;
+}
+.img4{
+    width: 45px;
+    height: 39px;
+}
+.heading4{
+    width: 180px;
+    height: 70px;
+}
